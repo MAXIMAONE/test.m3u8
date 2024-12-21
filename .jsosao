@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="AZTECA UNO" tvg-logo="https://tvazteca.brightspotcdn.com/02/3a/97274f9d42e89c1f5028ac7f5bab/ded.jpg"
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-id="CANAL 6 MX" tvg-logo="https://i.pinimg.com/originals/b9/34/da/b934dad29c37c3942f36c440bfca0559.png"
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
