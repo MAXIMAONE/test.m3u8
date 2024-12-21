@@ -4,5 +4,21 @@
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="CANAL 6 MX" tvg-logo="https://i.pinimg.com/originals/b9/34/da/b934dad29c37c3942f36c440bfca0559.png"
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-
-FOIFHGJF
+#EXTINF:-1 tvg-id="CONECTA TV" tvg-logo="https://play-lh.googleusercontent.com/7Rvs0rCdmfWjm-srLmJ5a2UM8hnvGzLC7QCDrUtBxuclIGymGLjVsVHHrv2kdIDZiQ=w240-h480-rw"
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id=" Recuerdos Retro Radio TV ✪ " tvg-logo="https://play-lh.googleusercontent.com/Snu-PktsqfjthE4GwulWDqi_KgmERwhe7GQB8SQc0zJUwwMwGUA5FG_IySGU9kJARu4"
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="TELE RITMO" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11278_7_7386.jpg.e46eb18d036118d62c9cb14e616d07c5.jpg"
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="ONCE TV" tvg-logo="https://www.rarediseaseday.org/wp-content/uploads/canal-once-IPN.png"
+https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b2098304.m3u8
+#EXTINF:-1 tvg-id="LAS ESTRELLAS" tvg-logo="https://st1.uvnimg.com/6a/34/43170cc70baee621d09e0c70ba95/las-estrellas.jpg"
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="AZTECA 7" tvg-logo="https://brandemia.org/sites/default/files/inline/images/azteca7_logo_antes.jpg"
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 tvg-id="UNIVISION" tvg-logo=""
+http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
+#EXTINF:-1 tvg-id="FOX SPORT USA" tvg-logo="https://seeklogo.com/images/F/Fox_Sports-logo-5B8E91B9E9-seeklogo.com.png"
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="ESPN Premium HD" tvg-logo="https://iili.io/JKrJQV9.png"
+http://ultrapremium.cloud:8080/live/999833692tv/9M206UbCp/542.ts
